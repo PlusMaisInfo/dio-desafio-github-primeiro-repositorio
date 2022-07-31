@@ -1,0 +1,5 @@
+# Links
+
+- https://www.markdownguide.org/basic-syntax/
+- https://desktop.github.com/
+- https://typora.io/
