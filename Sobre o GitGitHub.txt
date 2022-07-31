@@ -1,0 +1,3 @@
+## Git e GitHub
+
+- O **GitHuB** é um local no **Git** onde ficam armazenadas essas mudanças que estamos fazendo nos códigos, claro que existem outras ferramentas, mas esse é a mais utilizada.
